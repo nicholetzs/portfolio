@@ -240,7 +240,6 @@ body {
 }
 
 @media screen and (min-width: 320px) {
-  .nn-page-wrapper,
   .nn-preloader {
     width: 100%;
     height: 100vh;
